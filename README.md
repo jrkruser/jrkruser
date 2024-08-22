@@ -9,11 +9,13 @@ I use my expertise in statistical modeling, machine learning, and programming to
 
 ## Portfolio
 
+- **[LA Heath Inspection Analysis](https://github.com/jrkruser/health_inspections)**  
+  *A project analyzing LA County health inspection data across geographic and socioeconomic lines.*
+
 - **[Conjoint Analysis](https://github.com/jrkruser/conjoint-analysis/blob/main/my_conjoint_analysis.ipynb)**  
   *A project focused on applying conjoint analysis techniques to analyze consumer preferences.*
 
-- **Anesthesia Support & Management**  
-  Anesthesia Technician, UNC Rex Hospital, since March 2023  
-  *Assisted anesthesiologists and CRNAs in managing anesthesia, maintained supplies, and responded quickly in emergent care situations.*
+
+
 
 You can expand this with more details or add additional projects and experiences.
