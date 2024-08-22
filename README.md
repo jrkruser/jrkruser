@@ -9,9 +9,8 @@ I use my expertise in statistical modeling, machine learning, and programming to
 
 ## Portfolio
 
-- **Toxic Metals Review Database Project**  
-  Volunteer Research Assistant, The Water Institute, Spring 2024  
-  *Performed full-text review and data entry on thousands of scientific articles, analyzing prospective articles for relevance and suitable methodologies.*
+- **[Conjoint Analysis](https://github.com/jrkruser/conjoint-analysis)**  
+  *A project focused on applying conjoint analysis techniques to analyze consumer preferences.*
 
 - **Anesthesia Support & Management**  
   Anesthesia Technician, UNC Rex Hospital, since March 2023  
