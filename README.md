@@ -9,7 +9,7 @@ I use my expertise in statistical modeling, machine learning, and programming to
 
 ## Portfolio
 
-- **[Conjoint Analysis](https://github.com/jrkruser/conjoint-analysis)**  
+- **[Conjoint Analysis]([https://github.com/jrkruser/conjoint-analysis/blob/main/your-notebook-file.ipynb](https://github.com/jrkruser/conjoint-analysis/blob/main/my_conjoint_analysis.ipynb))**
   *A project focused on applying conjoint analysis techniques to analyze consumer preferences.*
 
 - **Anesthesia Support & Management**  
