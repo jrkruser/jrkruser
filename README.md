@@ -15,7 +15,7 @@ I use my expertise in statistical modeling, machine learning, and programming to
 - **[Conjoint Analysis](https://github.com/jrkruser/conjoint-analysis/blob/main/my_conjoint_analysis.ipynb)**  
   *A project focused on applying conjoint analysis techniques to analyze consumer preferences.*
 
-- **[DataFest 2024](link)**  
+- **[DataFest 2024](https://github.com/jrkruser/Datafest2024)**  
   *A data project for Duke Datafest 2024 based on data from an online textbook provider*
 
 
