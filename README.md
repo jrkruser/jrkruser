@@ -12,7 +12,7 @@ I use my expertise in statistical modeling, machine learning, and programming to
 - **[LA Heath Inspection Analysis](https://github.com/jrkruser/health_inspections)**  
   *A project analyzing LA County health inspection data across geographic and socioeconomic lines.*
 
-- **[Conjoint Analysis](https://github.com/jrkruser/conjoint-analysis/blob/main/my_conjoint_analysis.ipynb)**  
+- **[Conjoint Analysis](https://github.com/jrkruser/conjoint-analysis)**  
   *A project focused on applying conjoint analysis techniques to analyze consumer preferences.*
 
 - **[DataFest 2024](https://github.com/jrkruser/Datafest2024)**  
