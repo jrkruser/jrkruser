@@ -10,7 +10,7 @@ I use my expertise in statistical modeling, machine learning, and programming to
 ## Portfolio
 
 - **[COVID Comorbidities](https://github.com/jrkruser/COVID_comorbidities)**  
-  *A SQL/Python project based on Sythnetic healthcare data*
+  *A SQL/Python project based on synthetic healthcare data*
 
 - **[LA Heath Inspection Analysis](https://github.com/jrkruser/health_inspections)**  
   *A project analyzing LA County health inspection data across geographic and socioeconomic lines.*
