@@ -9,8 +9,8 @@ I use my expertise in statistical modeling, machine learning, and programming to
 
 ## Portfolio
 
-- **[somethign](https://github.com/jrkruser/COVID_comorbidities)**  
-  *A SQL/Python project based on synthetic healthcare data*
+- **[Business Review Dashboard](https://github.com/jrkruser/Power-BI-Business-DashboardPower-BI-Business-Dashboard)**  
+  *A Power BI project based on the online BI course by Travis Cuzick*
 
 - **[COVID Comorbidities](https://github.com/jrkruser/COVID_comorbidities)**  
   *A SQL/Python project based on synthetic healthcare data*
