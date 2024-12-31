@@ -9,7 +9,7 @@ I use my expertise in statistical modeling, machine learning, and programming to
 
 ## Portfolio
 
-- **[Business Review Dashboard](https://github.com/jrkruser/Power-BI-Business-DashboardPower-BI-Business-Dashboard)**  
+- **[Business Review Dashboard](https://github.com/jrkruser/Power-BI-Business-Dashboard)**  
   *A Power BI project based on the online BI course by Travis Cuzick*
 
 - **[COVID Comorbidities](https://github.com/jrkruser/COVID_comorbidities)**  
