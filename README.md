@@ -7,7 +7,7 @@ I have a strong foundation in mathematics, data analysis, and programming, with 
 
 I use my expertise in statistical modeling, machine learning, and programming to work on data-driven projects. I’m passionate about applying these skills to solve real-world problems.
 
-## Portfolio
+## Public Projects
 
 - **[Business Review Dashboard](https://github.com/jrkruser/Power-BI-Business-Dashboard)**  
   *A Power BI project based on the online BI course by Travis Cuzick*
