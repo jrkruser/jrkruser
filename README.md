@@ -13,7 +13,7 @@ I use my expertise in statistical modeling, machine learning, and programming to
   *A Power BI project based on the online BI course by Travis Cuzick*
   
 - **[Tableau Projects](https://public.tableau.com/app/profile/james.kruse/vizzes)**  
-  *A Collection of Tableau dashboards analyzing healthcare and business operations
+  *A Collection of Tableau dashboards analyzing healthcare and business operations*
   
 - **[COVID Comorbidities](https://github.com/jrkruser/COVID_comorbidities)**  
   *A SQL/Python project based on synthetic healthcare data*
