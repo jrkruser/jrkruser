@@ -9,9 +9,9 @@ I use my expertise in statistical modeling, machine learning, and programming to
 
 ## Public Projects
 
-- **[Business Review Dashboard](https://github.com/jrkruser/Power-BI-Business-Dashboard)**  n
+- **[Business Review Dashboard](https://github.com/jrkruser/Power-BI-Business-Dashboard)**  
   *A Power BI project based on the online BI course by Travis Cuzick*
-
+  
 - **[Tableau Projects](https://public.tableau.com/app/profile/james.kruse/vizzes)**  
   *A Collection of Tableau dashboards analyzing healthcare and business operations
   
